@@ -1,0 +1,20 @@
+﻿<%@ Register TagPrefix="xaf" Namespace="DevExpress.ExpressApp.Web.Templates.ActionContainers" Assembly="DevExpress.ExpressApp.Web.v8.3" %>
+<%@ Register TagPrefix="dxnb" Namespace="DevExpress.Web.ASPxNavBar" Assembly="DevExpress.Web.v8.3" %>
+<dxnb:ASPxNavBar runat="server" CssPostfix="xaf" CssFilePath="~/App_Themes/XafDefault/{0}/styles.css" ImageFolder="~/App_Themes/XafDefault/{0}/" GroupSpacing="5px">
+	
+	<CollapseImage Height="14px" Width="13px" />
+	<ExpandImage Height="14px" Width="13px" />
+	
+	<GroupContentStyle ItemSpacing="1px" />
+	
+	<LoadingPanelStyle ImageSpacing="6px" />
+</dxnb:ASPxNavBar>
+
+<xaf:NavigationBarActionContainer runat="server" CssPostfix="xaf" CssFilePath="~/App_Themes/XafDefault/{0}/styles.css" ImageFolder="~/App_Themes/XafDefault/{0}/" GroupSpacing="0px" Width="100%">
+	<CollapseImage Height="14px" Width="13px" />
+	<ExpandImage Height="14px" Width="13px" />
+	
+	<GroupContentStyle ItemSpacing="1px" />
+	
+	<LoadingPanelStyle ImageSpacing="6px" />
+</xaf:NavigationBarActionContainer>
