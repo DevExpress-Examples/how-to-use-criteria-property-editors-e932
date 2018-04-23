@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="HowToUseCriteriaPropertyEditors" Logo="ExpressAppLogo">
+  <CreatableItems>
+    <CreatableItem IsNewNode="True" ImageName="BO_Person" ClassName="DevExpress.Persistent.BaseImpl.Person" />
+  </CreatableItems>
+  <NavigationItems>
+    <Item Id="Default">
+      <Item Id="Person" IsNewNode="True" ImageName="BO_Person" Caption="Person" ViewId="Person_ListView" />
+    </Item>
+  </NavigationItems>
+</Application>
