@@ -1,0 +1,63 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToUseCriteriaPropertyEditors.Module", "HowToUseCriteriaPropertyEditors.Module\HowToUseCriteriaPropertyEditors.Module.vbproj", "{9C211EE1-0FD1-4962-A04F-146C1E7D27D8}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToUseCriteriaPropertyEditors.Module.Web", "HowToUseCriteriaPropertyEditors.Module.Web\HowToUseCriteriaPropertyEditors.Module.Web.vbproj", "{AB22E194-2D37-4FB8-BA23-59169D3EA2A2}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToUseCriteriaPropertyEditors.Web", "HowToUseCriteriaPropertyEditors.Web\HowToUseCriteriaPropertyEditors.Web.vbproj", "{AB0C674E-115A-48B6-808F-1B1FB29BB094}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToUseCriteriaPropertyEditors.Module.Win", "HowToUseCriteriaPropertyEditors.Module.Win\HowToUseCriteriaPropertyEditors.Module.Win.vbproj", "{C5A41C9E-9D08-40DD-9828-8697F977A641}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToUseCriteriaPropertyEditors.Win", "HowToUseCriteriaPropertyEditors.Win\HowToUseCriteriaPropertyEditors.Win.vbproj", "{63DDE56D-CCDD-4A6C-B5EE-FD0CEF72B871}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C211EE1-0FD1-4962-A04F-146C1E7D27D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C211EE1-0FD1-4962-A04F-146C1E7D27D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C211EE1-0FD1-4962-A04F-146C1E7D27D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C211EE1-0FD1-4962-A04F-146C1E7D27D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB22E194-2D37-4FB8-BA23-59169D3EA2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB22E194-2D37-4FB8-BA23-59169D3EA2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB22E194-2D37-4FB8-BA23-59169D3EA2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB22E194-2D37-4FB8-BA23-59169D3EA2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB0C674E-115A-48B6-808F-1B1FB29BB094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0C674E-115A-48B6-808F-1B1FB29BB094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0C674E-115A-48B6-808F-1B1FB29BB094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0C674E-115A-48B6-808F-1B1FB29BB094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5A41C9E-9D08-40DD-9828-8697F977A641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A41C9E-9D08-40DD-9828-8697F977A641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A41C9E-9D08-40DD-9828-8697F977A641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A41C9E-9D08-40DD-9828-8697F977A641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63DDE56D-CCDD-4A6C-B5EE-FD0CEF72B871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63DDE56D-CCDD-4A6C-B5EE-FD0CEF72B871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63DDE56D-CCDD-4A6C-B5EE-FD0CEF72B871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63DDE56D-CCDD-4A6C-B5EE-FD0CEF72B871}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
