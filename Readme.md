@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CriteriaController.cs](./CS/HowToUseCriteriaPropertyEditors.Module/CriteriaController.cs) (VB: [CriteriaController.vb](./VB/HowToUseCriteriaPropertyEditors.Module/CriteriaController.vb))
+* [FilteringCriterion.cs](./CS/HowToUseCriteriaPropertyEditors.Module/FilteringCriterion.cs) (VB: [FilteringCriterion.vb](./VB/HowToUseCriteriaPropertyEditors.Module/FilteringCriterion.vb))
+* [Product.cs](./CS/HowToUseCriteriaPropertyEditors.Module/Product.cs) (VB: [Product.vb](./VB/HowToUseCriteriaPropertyEditors.Module/Product.vb))
+* [Updater.cs](./CS/HowToUseCriteriaPropertyEditors.Module/Updater.cs) (VB: [Updater.vb](./VB/HowToUseCriteriaPropertyEditors.Module/Updater.vb))
+<!-- default file list end -->
 # How to use Criteria Property Editors
 
 
